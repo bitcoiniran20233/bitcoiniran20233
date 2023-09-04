@@ -1,7 +1,7 @@
-<h1 align="center">Hi Frens, I m'm Bita</h1>
+<h1 align="center">Hi Frens, I m'Bita</h1>
 <h3 align="center">A trader of Crypto from Turkiey</h3>
 
-- 📫 How to reach me **Bitcoiniran2023@gmail.com**
+- 📫 How to reach me **Bi.tcoiniran2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

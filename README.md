@@ -1,11 +1,11 @@
 <h1 align="center">Hi Frens, I am Bita Kuni asl</h1>
-<h3 align="center">A trader of Crypto from Turkiey</h3>
+<h3 align="center">A trader of Crypto from Korea</h3>
 i live in Canada
 - 📫 How to reach me **Bi.tcoiniran2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@oransdt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@oransdt" height="30" width="40" /></a>
+<a href="https://twitter.com/@oransdt" target="blank">gold<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@oransdt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

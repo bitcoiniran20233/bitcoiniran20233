@@ -1,5 +1,5 @@
 <h1 align="center">Hi Frens, I am Bita Kuni asl</h1>
-<h3 align="center">A trader of Crypto from Korea</h3>
+<h3 align="center">A trader of Crypto from Sohth Korea</h3>
 i live in Canada
 - 📫 How to reach me **Bi.tcoiniran2023@gmail.com**
 
